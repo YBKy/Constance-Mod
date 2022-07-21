@@ -2,7 +2,7 @@
 A Mod for the artificial life game ["The Bibites"](https://leocaussan.itch.io/the-bibites)
 
 
-To all my fellow Bibite engineers, I ask you this: have you ever created a complex brain structure, just for the sands of time and random maturations to slowly wither away at your creation? Have you ever created a behavior that relied on a specific trait of the Bibite (like its color for enemy/foe distinction), but random mutations changed it beyond recognition? Well, I have the solution for you: the Constance Mod! <br /><br />
+To all my fellow Bibite engineers, I ask you this: have you ever created a complex brain structure, just for the sands of time and random mutations to slowly wither away at your creation? Have you ever created a behavior that relied on a specific trait of the Bibite (like its color for enemy/foe distinction), but random mutations changed it beyond recognition? Well, I have the solution for you: the Constance Mod! <br /><br />
 
 ### What is this Mod about
 The Constance Mod is about fixing certain traits of a Bibite, certain neurons and certain synapses and preventing all mutations that would affect those traits, neurons and synapses. It also has the secondary functionality of changing traits (not currently neurons and synapses) of all BIbites in a world. <br /><br />
