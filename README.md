@@ -38,4 +38,4 @@ Dummy Tag mode is activated for Bibites, that have the string ".dummy" in their 
 Note that having health constant does not make the Bibite immortal. It can still die, if one hit brings it to 0 health. If you want your Bibite to be immortal set dying to false. The only way to kill a Bibite with dying set to false it to rename it, so Constance Mod has no effect on it anymore <br /><br /><br />
 
 #### Ps
-All bugfixes that are currently on my Bibites-Quickfixes repo are also implemented here
+All bugfixes that are currently on my [Bibites-Quickfixes repo](https://github.com/YBKy/Bibites-Quickfixes) are also implemented here
