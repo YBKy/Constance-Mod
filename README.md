@@ -35,7 +35,7 @@ But of course, it has its other uses. <br /><br />
 ## Feature 4: Extended Dummy Tag Mod
 Dummy Tag Mod is a mod developed by @Conni243. It was developed to add new evolutinary forces to Bibites who live in a world where some scenarios are not possible. This new version of the Constance Mod extend the functionality of the Dummy tag Mod by providing more options and more customizability. <br /><br />
 Dummy Tag mode is activated for Bibites, that have the string ".dummy" in their tag. While in regular mode the Constance Mod only allows you to keep genetic attributes  like genes, neurons and synapses constant, in Dummy tag mode you can make live attributes  constant. Those live attributes are: stomach contents, health, energy, d2Size, the ability to dying or stay immortal of dying is set to false, maturity and time alive. All live settings that are present will be constant if Dummy Tag mode is active, remove all live traits that you do not want to stay constant. If Dummy Tag mode is active for a Bibite, it will also have void no more active. <br /><br />
-Note that having health constant does not make the Bibite immortal. It can still die, if one hit brings it to 0 health. If you want your Bibite to be immortal set dying to false. The only way to kill a Bibite with dying set to false it to rename it, so Constance Mod has no effect on it anymore <br /><br />
+Note that having health constant does not make the Bibite immortal. It can still die, if one hit brings it to 0 health. If you want your Bibite to be immortal set dying to false. The only way to kill a Bibite with dying set to false it to rename it, so Constance Mod has no effect on it anymore <br /><br /><br />
 
 #### Ps
-also, all bugfixes from the current Bibite Quickfixes repo are also implemented here
+All bugfixes that are currently on my Bibites-Quickfixes repo are also implemented here
