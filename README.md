@@ -2,11 +2,11 @@
 A Mod for the artificial life game ["The Bibites"](https://leocaussan.itch.io/the-bibites)
 
 ### What is this Mod about
-The Constance Mod is about fixing certain traits of a Bibite, certain neurons and certain synapses and preventing all mutations that would affect those traits, neurons and synapses. It also has the secondary functionalities of changing traits (genes, synapses, neurons) of all Bibites in a world, giving access to the value of a Bibites genes to the neural network brain of the Bibite, and providing extended functionalities of the Dummy Tag Mod. <br /><br />
+The Constance Mod is about fixing certain genes of a Bibite, certain neurons and certain synapses and preventing all mutations that would affect those genes, neurons and synapses. It also has the secondary functionalities of changing traits (genes, synapses, neurons) of all Bibites in a world, giving access to the value of a Bibites genes to the neural network brain of the Bibite, and providing extended functionalities of the [Dummy Tag Mod](https://github.com/Conni243/DTMod). <br /><br />
 
 ## Installation Guide
 How to install the Constance Mod: 
-1)	Make a Backup of your Bibite game folder. 
+1)	Make a Backup of your Bibite game folder.
 2)	Download the zip file of the mod
 3)	Unpack the zip file somewhere
 4) Take the file *BibitesAssembly.dll* and drop it into *[your Bibite folder]\The Bibites_Data\Managed*. When Windows asks you, if you want to replace the file, you click yes. <br /><br />
