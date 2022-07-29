@@ -1,3 +1,15 @@
+[NEURON TYPES]
+ 0: Input
+ 1: Sigmoid
+ 2: Linear
+ 3: TanH
+ 4: Sin
+ 5: ReLu
+ 6: Gaussian
+ 7: Latch
+ 8: Differential
+ 9: Abs
+ 
 [NEURON INDEXES]
 [inputs]
  0:  Constant
