@@ -58,8 +58,9 @@
  41: PhereOut1
  42: PhereOut2
  43: PhereOut3
- 45: Want2Grow
- 46: Want2Heal
+ 44: Want2Grow
+ 45: Want2Heal
+ 46: Want2Attack
  47: ImmuneSystem
 
 
